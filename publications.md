@@ -18,29 +18,28 @@ description: List of peer-reviewed publications and research papers by John Smit
   <h3>"Ipsum Lorem is all you need"</h3>
   <p><strong>Conference:</strong> International Conference on Machine Learning (COML 2026)</p>
   <p><strong>Status:</strong> <span class="badge badge-oral">ORAL PRESENTATION</span></p>
-  <p><strong>Achievement:</strong> Top ~1% of all submissions (120 / 120 oral presentations)</p>
+  <p><strong>Achievement:</strong> Top ~1% of all submissions (120 oral presentations selected)</p>
   <p><strong>Presentation Dates:</strong> August 27-29, 2026</p>
   <p><strong>Format:</strong> In-person only presentation (12 minutes + 2 minutes Q&A)</p>
   
   <div class="links">
     <a href="https://openreview.net/forum?id=example123" class="btn" target="_blank">📄 OpenReview</a>
-    <a href="#" class="btn btn-secondary" target="_blank">💻 GitHub Code <span class="badge badge-published">READY</span></a>
-    <a href="#" class="btn btn-secondary" target="_blank">📦 Dataset</a>
+    <a href="#" class="btn btn-secondary" target="_blank">💻 GitHub Code <span class="badge badge-upcoming">COMING SOON</span></a>
   </div>
 </div>
 
-#### 📝 Camera-Ready Required - COAI 2026
+#### ✅ Code Available - COAI 2026
 <div class="publication-card">
   <h3>"Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments"</h3>
   <p><strong>Conference:</strong> Conference on Artificial Intelligence (COAI 2026)</p>
-  <p><strong>Status:</strong> <span class="badge badge-accepted">ACCEPTED - CAMERA-READY SUBMISSION INCOMPLETE</span></p>
-  <p><strong>Due Date:</strong> July 14, 2026, 11:59 PM AOE</p>
-  <p><strong>Board Requirements:</strong> 8 pages + unlimited references and appendix</p>
-  <p><strong>Template:</strong> [COAI 2026 LaTeX Template](https://coai.org/templates/coai2026_camera_ready.zip)</p>
+  <p><strong>Status:</strong> <span class="badge badge-published">PUBLISHED - CAMERA-READY SUBMISSION COMPLETED</span></p>
+  <p><strong>Deadline Status:</strong> ✓ Camera-ready submission completed by July 14, 2026</p>
+  <p><strong>Board Requirements:</strong> ✓ 8 pages + unlimited references and appendix met</p>
   
   <div class="links">
-    <a href="#" class="btn">📄 Preprint</a>
-    <a href="#" class="btn btn-secondary" target="_blank">💻 GitHub Code <span class="badge badge-upcoming">COMING SOON</span></a>
+    <a href="#" class="btn" target="_blank">📄 Final Camera-Ready Version</a>
+    <a href="https://github.com/mohsin-mus/optimizing-llms-contextual-reasoning-2026" class="btn btn-secondary" target="_blank">💻 GitHub Code <span class="badge badge-published">AVAILABLE</span></a>
+    <a href="#" class="btn btn-secondary" target="_blank">📦 Dataset</a>
   </div>
 </div>
 
