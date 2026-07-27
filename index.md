@@ -18,7 +18,7 @@ description: Personal research homepage of Dr. John Smith, Research Scientist. L
 <i>Proceedings of the Conference on Machine Learning (COML 2026)</i>  
 <br><strong>Status: ✅ ACCEPTED - ORAL PRESENTATION</strong>  
 <br><strong>Top 1% of submissions!</strong>  
-[🔗 OpenReview Link](https://openreview.net/forum?id=example123)  
+[🔗 OpenReview Link](https://openreview.net/forum?id=example123) | [💻 GitHub Code](https://github.com/mohsin-mus/ipsum-lorem-all-you-need)  
 *Oral presentation selected from 120 oral presentations out of 120 submissions.*  
 **Presentation dates:** 2026-08-27, 2026-08-28, or 2026-08-29  
 **Location:** In-person only  
@@ -55,10 +55,10 @@ description: Personal research homepage of Dr. John Smith, Research Scientist. L
 
 ### Binary Search on Facets and Its Surgery: the Crochet Study
 *Progressive Longitudinal Design*  
-📊 **Status:** In Review  
+📊 **Status:** Accepted at COLM 2026  
 📅 **Start Date:** 2026-07-03  
 💻 **Code:** [GitHub Repository](https://github.com/yourusername/your-repo)  
-📄 **Preprint:** [arXiv Link](https://arxiv.org/abs/your-paper)
+📄 **Preprint:** [arXiv Link](https://arxiv.org/abs/your-paper)  
 
 ### Quantumboost
 *Deep Reinforcement Learning with Quantum LLMs*  
@@ -68,7 +68,7 @@ description: Personal research homepage of Dr. John Smith, Research Scientist. L
 
 ---
 
-## Academic Services 🔧
+## Academic Services 🛠️
 
 - **Reviewer:** COML 2026, COAI 2026, ICSBE 2026
 - **Conference Organizing Committee Member:** COML 2026

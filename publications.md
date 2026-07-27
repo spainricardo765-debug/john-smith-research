@@ -24,7 +24,7 @@ description: List of peer-reviewed publications and research papers by John Smit
   
   <div class="links">
     <a href="https://openreview.net/forum?id=example123" class="btn" target="_blank">📄 OpenReview</a>
-    <a href="#" class="btn btn-secondary" target="_blank">💻 GitHub Code <span class="badge badge-upcoming">COMING SOON</span></a>
+    <a href="https://github.com/mohsin-mus/ipsum-lorem-all-you-need" class="btn btn-secondary" target="_blank">💻 GitHub Code <span class="badge badge-published">AVAILABLE</span></a>
   </div>
 </div>
 
@@ -100,7 +100,7 @@ description: List of peer-reviewed publications and research papers by John Smit
 
 <div class="publication-card">
   <h3>"Binary Search on Facets and Its Surgery: the Crochet Study"</h3>
-  <p><strong>Status:</strong> <span class="badge badge-review">SUBMITTED TO REVIEW</span></p>
+  <p><strong>Status:</strong> <span class="badge badge-accepted">ACCEPTED AT COLM 2026</span></p>
   <p><strong>Start Date:</strong> July 3, 2026</p>
   <p><strong>Type:</strong> Progressive Longitudinal Design Study</p>
   
